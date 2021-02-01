@@ -1,1 +1,3 @@
 # crudReact
+
+Pequeño proyecto en la cual se creara un crud donde se puede agregar editar y borrar distintos usuarios...
