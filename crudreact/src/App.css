@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+}
+
+.addUser span{
+    text-align: left;
+}
+
+.editForm input{
+    color: red;
+}
